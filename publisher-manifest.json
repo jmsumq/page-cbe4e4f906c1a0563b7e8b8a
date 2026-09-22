@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f42799bafed10228758cbd3f",
+  "owner": "jmsumq",
+  "repo": "page-cbe4e4f906c1a0563b7e8b8a",
+  "title": "GOGO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cbe4e4f906c1a0563b7e8b8a",
+      "a": "GOGO",
+      "b": "2027官方最新地址导航",
+      "entity": "GOGO",
+      "brand": "GOGO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4e52f2c61d33f142960e88344563a990124aae496ab00bb8d63d1b1e5f202ae3",
+      "content": {
+        "primary_entity": "GOGO",
+        "keyword1": "GOGO",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备平台选择对应客户端，或使用兼容的订阅导入工具，导入订阅后即可开始使用。",
+          "AI_CLIENTS_TITLE": "多端客户端选择",
+          "AI_CLOSING_TEXT": "对比套餐并试用订阅，找到适合你设备与流量的方案。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 3 到 20 台设备同时在线。基础版每月 100GB 流量，适合手机与笔记本轻度使用；旗舰版每月 300GB 并带 IPLC 专线，适合游戏与流媒体；团队版每月 1000GB，支持企业定制路由。按年付可享更优价格，客户端与订阅配置按设备说明操作即可。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。可根据常用手机、电脑、平板数量选择。",
+          "AI_FAQ_ANSWER_2": "按年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于节省两个月以上费用。",
+          "AI_FAQ_ANSWER_3": "基础版解锁基础流媒体，旗舰版全节点原生流媒体解锁，团队版 VIP 专属高带宽节点，按需选择即可。",
+          "AI_FAQ_ANSWER_4": "在购买页获取订阅链接，将链接导入对应设备客户端或兼容工具，保存后连接节点。",
+          "AI_FAQ_ANSWER_5": "旗舰版带 IPLC 专线游戏加速优化，并提供 7x24 优先工单支持，适合对速度与稳定性要求高的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "每档套餐分别支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "按月付和按年付价格差多少？",
+          "AI_FAQ_QUESTION_3": "哪个套餐适合看流媒体？",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入到客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版的游戏加速和工单支持包含什么？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量和订阅周期三个角度，快速定位合适的套餐。",
+          "AI_FEATURES_TITLE": "选择套餐的三个参考",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合 1-3 台设备；旗舰版每月 300GB 适合 5 台；团队版每月 1000GB 适合 20 台。",
+          "AI_FEATURE_TEXT_2": "手机、平板、笔记本与桌面客户端按平台选择，订阅导入后多端管理更省心。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备配端",
+          "AI_FEATURE_TITLE_3": "按周期计费",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅导入，按设备说明操作即可开始使用。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_HERO_INTRO": "GOGO 提供基础版、旗舰版与团队版海外加速套餐，覆盖 3 到 20 台设备与每月 100GB 至 1000GB 流量，按年付更省。手机、平板、电脑均可按平台选择客户端，导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，多端加速",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版带 IPLC 专线与流媒体解锁，团队版面向多设备与企业定制。按年付均比月付更省。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与支持客户端是否匹配你的使用场景。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按对应客户端文档导入并保存，连接节点开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "GOGO 套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "s2r70b.cn",
+    "host": "s2r70b.cn"
+  },
+  "file_hashes": {
+    "index.html": "796dc02a1e39f288b690e0b0be81d93d185ca4299a280112c40d3e789d5362eb",
+    "sitemap.xml": "5cd19c407f4af9752c6c799752ee81ad5f164f5590ddd021552a79ff027b8763",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7a55dff1cb962abeb358128fd936373e7004bee847593d9628a92868eafb344f",
+    "robots.txt": "f59c59be854475fc12344efdfb5ac6b4aa2b938fe5e69fa6d1a7970f44be7000",
+    "b505dbf699bc3e06d0a5f2f99031ca66.txt": "14b085c5cd86f6b2556d1d49251152d92ee4180b0616ae34a9dbfbbb9175ae43"
+  },
+  "revision": "ccfa954501d59de4e573a11b4cd6ff03e67b1ece59db3eddfb8a7034f693a38b"
+}
